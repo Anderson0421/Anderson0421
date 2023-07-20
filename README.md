@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anderson</h1>
-<h3 align="center">I am a software developer with experience in Mysql, Php, Html, CSS, JavaScript, Python, Java and OOP. In addition, I consider myself a good teammate and an effective leader.</h3>
+<h3 align="center">I am a software developer with experience in Python, Php, Html, CSS, JavaScript, MYSQL,Django, Flask, SQL and OOP. In addition, I consider myself a good teammate and an effective leader.</h3>
 
 - 🔭 I’m currently working on **Gym Web**
 
