@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Gym Web**
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Django REST FRAMEWORK**
 
 - 👨‍💻 All of my projects are available at [https://anderson0421.github.io/Portafolio1/](https://anderson0421.github.io/Portafolio1/)
 
