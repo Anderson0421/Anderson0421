@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anderson</h1>
-<h3 align="center">I am a fulstack developer focused on backend focused on backend. I have knowledge of backend technologies such as Python, PHP, JavaScript, MySQL , SQL,Django, Vue, TailwindCSS, In addition, I consider myself a good teammate and an effective leader.</h3>
+<h3 align="center">I am a fullstack developer focused on backend focused on backend. I have knowledge of backend technologies such as Python, PHP, JavaScript, MySQL , SQL,Django, Vue, TailwindCSS, In addition, I consider myself a good teammate and an effective leader.</h3>
 
 - 🔭 I’m currently working on **Portafolio web**
 
