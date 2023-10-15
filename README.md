@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Anderson</h1>
-<h3 align="center">I am a software developer focused on backend focused on backend. I have knowledge of backend technologies such as Python, PHP, JavaScript, MYSQL ,Django, Flask, SQL, In addition, I consider myself a good teammate and an effective leader.</h3>
+<h3 align="center">I am a fulstack developer focused on backend focused on backend. I have knowledge of backend technologies such as Python, PHP, JavaScript, MySQL , SQL,Django, Vue, TailwindCSS, In addition, I consider myself a good teammate and an effective leader.</h3>
 
-- 🔭 I’m currently working on **Ecommerce web**
+- 🔭 I’m currently working on **Portafolio web**
 
-- 🌱 I’m currently learning **Django REST FRAMEWORK**
+- 🌱 I’m currently learning ** Vue **
 
 - 👨‍💻 All of my projects are available at [https://anderson0421.github.io/Portafolio1/](https://anderson0421.github.io/Portafolio1/)
 
