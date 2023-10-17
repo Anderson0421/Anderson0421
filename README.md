@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Portafolio web**
 
-- 🌱 I’m currently learning ** Vue **
+- 🌱 I’m currently learning **Vue**
 
 - 👨‍💻 All of my projects are available at [https://anderson0421.github.io/Portafolio1/](https://anderson0421.github.io/Portafolio1/)
 
