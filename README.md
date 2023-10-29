@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anderson Marcelo</h1>
-<h3 align="center">I am a fullstack developer focused on backend focused on backend. I have knowledge of backend technologies such as Python, PHP, JavaScript, MySQL , SQL,Django, Vue, TailwindCSS, In addition, I consider myself a good teammate and an effective leader.</h3>
+<h3 align="center">I am a fullstack developer focused on backend focused on backend. I have knowledge of backend technologies such as Python, PHP, JavaScript, MySQL , SQL , Django , Laravel , Vue, TailwindCSS, In addition, I consider myself a good teammate and an effective leader.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anderson0421&label=Profile%20views&color=0e75b6&style=flat" alt="anderson0421" /> </p>
 
