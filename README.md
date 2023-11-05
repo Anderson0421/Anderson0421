@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **System with Laravel**
 
-- 🌱 I’m currently learning **Vue**
+- 🌱 I’m currently learning **Vue.js**
 
 - 👨‍💻 All of my projects are available at my portafolio **https://portafolio-anderson0421s-projects.vercel.app/#**
 
