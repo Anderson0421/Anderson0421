@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **System with Django**
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **Django Rest Framework**
 
 - 👨‍💻 All of my projects are available at my portafolio **https://portafolio-anderson0421s-projects.vercel.app/#**
 
