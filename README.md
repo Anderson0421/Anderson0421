@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anderson Marcelo</h1>
 <h4 align="center"> Creator of Devcollab ❤ </h4>
-<h3 align="center">I am a software  engineer, Fullstack  Developer focused on Backend. I have knowledge of backend technologies such as Python, Django, PHP, JavaScript, MySQL, SQL, PostgreSQL, Laravel, Vue, Tailwind, Astro,Git ,Github. In addition, I consider myself a good teammate and an effective leader.</h3>
+<h3 align="center">I am a software  engineer, Fullstack  Developer focused on Backend. I have knowledge of backend technologies such as Python, Django, PHP, JavaScript, MySQL, SQL, PostgreSQL, Laravel, Vue, Tailwind, Astro, Git, Github. In addition, I consider myself a good teammate and an effective leader.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anderson0421&label=Profile%20views&color=0e75b6&style=flat" alt="anderson0421" /> </p>
 
