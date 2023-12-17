@@ -2,7 +2,7 @@
 <h3 align="center"> Creator of Devcollab ❤</h3> 
 <h3 align="center">I am a software  engineer, Fullstack  Developer focused on Backend. I have knowledge of backend technologies such as Python, Django,  JavaScript, React, Tailwind, Astro, PHP, MySQL, SQL, PostgreSQL, Laravel, Git, Github. In addition, I consider myself a good teammate and an effective leader.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anderson0421&label=Profile%20views&color=0e75b6&style=flat" alt="anderson0421" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=anderson0421&label=Profile%20views&color=0e75b6&style=flat" alt="anderson0421" /></p>
 
 - 🔭 I’m currently working on **DevCollab**
 
