@@ -15,6 +15,7 @@
 - 📫 How to reach me **andymarcelo21@outlook.es**
 
 <h3 align="left">Connect with me:</h3>
+<p>I love connecting with fellow developers and learners. Feel free to reach out to me on these platforms:</p>
 <p align="left">
 <a href="https://linkedin.com/in/anderson-marcelo-herrera-2a898a250" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/anderson-marcelo-herrera-2a898a250/" height="30" width="40" /></a>
 </p>
