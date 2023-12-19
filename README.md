@@ -9,7 +9,9 @@
 <li><strong>Frameworks:</strong> Django, Astro, </li>
 <li><strong>Databases &amp; Others :</strong> MySQL, PostgreSQL, SQL, Github, Git, Gitlab </li>
 </ul>
+
 - 👨‍💻 All of my projects are available at my portafolio **[https://portafolio-anderson0421s-projects.vercel.app/#](https://portafolio-anderdev.vercel.app/)**
+ 
 - 📫 How to reach me **andymarcelo21@outlook.es**
 
 <h3 align="left">Connect with me:</h3>
