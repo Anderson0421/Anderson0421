@@ -1,4 +1,4 @@
-<h1>Hi 👋, I'm Anderson Marcelo</h1>
+<h1>Hi, I'm Anderson Marcelo! 👋</h1>
 <h3> Creator of Devcollab ❤</h3> 
 <h3>I am a software  engineer, Fullstack  Developer focused on Backend. I have knowledge of backend technologies such as Python, Django, Django Rest Framework, API REST, JavaScript, React, Redux, Tailwind, Astro, PHP, MySQL, SQL, PostgreSQL, Laravel, Git, Github. In addition, I consider myself a good teammate and an effective leader.</h3>
 
