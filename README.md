@@ -9,15 +9,7 @@
 <li><strong>Frameworks:</strong> Django, Astro, </li>
 <li><strong>Databases &amp; Others :</strong> MySQL, PostgreSQL, SQL, Github, Git, Gitlab </li>
 </ul>
-
-- 🔭 I’m currently working on **DevCollab**
-
-- 🌱 I’m currently learning **Django Rest Framework**
-
 - 👨‍💻 All of my projects are available at my portafolio **[https://portafolio-anderson0421s-projects.vercel.app/#](https://portafolio-anderdev.vercel.app/)**
-
-- 💬 Ask me about **Django**
-
 - 📫 How to reach me **andymarcelo21@outlook.es**
 
 <h3 align="left">Connect with me:</h3>
