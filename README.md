@@ -8,7 +8,7 @@
 <li><strong>Web Development:</strong> React, Redux, Tailwind, API's.</li>
 <li><strong>Frameworks:</strong> Django, Astro. </li>
 <li><strong>Databases &amp; Others :</strong> MySQL, MongoDB, PostgreSQL, SQL, Github, Git, Gitlab. </li>
-</ul> 
+</ul>  
  
 - 👨‍💻 All of my projects are available at my portafolio https://portafolio-anderdev.vercel.app/
  
