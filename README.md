@@ -1,4 +1,4 @@
-<h1>Hi, I'm Anderson Marcelo! 👋</h1>  
+<h1>Hi, I'm Anderson Marcelo! 👋</h1> 
 <h3>I am a software developer with a passion for developing and sharing my knowledge, especially in Fullstack Web Development and Data Science.</h3>
 <h4> Creator of Devcollab and Nexhub ❤</h4>
 
@@ -6,7 +6,7 @@
 <ul dir="auto"> 
 <li><strong>Languages:</strong> Python, JavaScript. </li>
 <li><strong>Web Development:</strong> React, Redux, Tailwind, Azure, AWS, API's.</li>
-<li><strong>Frameworks:</strong> Django, Astro. </li>
+<li><strong>Frameworks:</strong> Django, Astro, Django Rest . </li>
 <li><strong>Databases &amp; Others :</strong> MySQL, MongoDB, PostgreSQL, SQL, Github, Git, Gitlab. </li>
 </ul>   
 
