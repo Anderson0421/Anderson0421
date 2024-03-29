@@ -7,7 +7,7 @@
 <li><strong>Languages:</strong> Python, JavaScript, Typescript. </li>
 <li><strong>Web Development:</strong> React, Redux, Tailwind, Azure, AWS,  API's.</li>
 <li><strong>Frameworks:</strong> Django, Astro, Next.js,  Django REST. </li>
-<li><strong>Databases &amp; Others :</strong> MySQL, MongoDB, PostgreSQL,Postman, SQL, Github, Git, Gitlab. </li>
+<li><strong>Databases &amp; Others :</strong> MySQL, MongoDB, PostgreSQL, Postman, SQL, Github, Git, Gitlab. </li>
 </ul>   
 
 - 👨‍💻 All of my projects are available at my portafolio https://portafolio-anderdev.vercel.app/
