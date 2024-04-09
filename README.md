@@ -20,6 +20,6 @@
 <a href="https://linkedin.com/in/anderson-marcelo-herrera-2a898a250" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/anderson-marcelo-herrera-2a898a250/" height="30" width="40" /></a>
 </p>
  
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anderson0421&" alt="anderson0421" /></p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anderson0421" alt="anderson0421" /></a> </p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anderson0421&show_icons=true&locale=en" alt="anderson0421" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anderson0421&show_icons=true&locale=en&layout=compact" alt="anderson0421" /></p>
