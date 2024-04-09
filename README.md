@@ -21,5 +21,5 @@
 </p>
  
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anderson0421&show_icons=true&locale=en" alt="anderson0421" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anderson0421&show_icons=true&locale=en&layout=compact" alt="anderson0421" /></p> <br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anderson0421&show_icons=true&locale=en&layout=compact" alt="anderson0421" /></p> <br/>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anderson0421" alt="anderson0421" /></a> </p>
