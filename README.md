@@ -22,3 +22,4 @@
  
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anderson0421&show_icons=true&locale=en" alt="anderson0421" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anderson0421&show_icons=true&locale=en&layout=compact" alt="anderson0421" /></p>
