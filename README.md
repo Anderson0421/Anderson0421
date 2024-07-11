@@ -6,7 +6,7 @@
 <ul dir="auto"> 
 <li><strong>Languages:</strong> Python, JavaScript, Typescript. </li>
 <li><strong>Data Science:</strong> Python, Pandas,Matplotlib, Seaborn, Numpy, Power BI, Excel. </li
-<li><strong>Web Development:</strong> React, Redux, Tailwind, Azure, AWS,  API's.</li>
+<li><strong>Web Development:</strong> React, Redux, Zustand, React Query, Tailwind, Azure, AWS,  API's.</li>
 <li><strong>Frameworks:</strong> Django, Astro, Next.js,  Django REST. </li>
 <li><strong>Databases &amp; Others :</strong> MySQL, MongoDB, PostgreSQL, Postman, SQL, Github, Git, Gitlab. </li>
 </ul>   
